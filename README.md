@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kavyatrivedi931@gmail.com**
 
-- ⚡ Fun fact **I am creative**
+- ⚡ Fun fact **I am CRAZY & CREATIVE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
