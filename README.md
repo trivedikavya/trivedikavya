@@ -1,4 +1,4 @@
-![Header](./IMG_20240519_194140.png)
+![Header](./supawork_20250226_101536.gif)
 <h1 align="center">Hi 👋, I'm KAVYA TRIVEDI</h1>
 <h3 align="center">A passionate creative developer from India</h3>
 <img align="right" alt="coding" width="400" src="animated_medium20200907-23140-1wxfpxa-ezgif.com-video-to-gif-converter.gif">
