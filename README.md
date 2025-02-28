@@ -1,6 +1,6 @@
 ![Header GIF](./supawork_20250226_101536.gif)
 <h1 align="center">Hey 👋, I'm KAVYA TRIVEDI</h1>
-<h3 align="center">A passionate creative developer from India</h3>
+<h3 align="center">I build, I create, I adapt—if I don’t know it, I make it work.</h3>
 <img align="right" alt="coding" width="400" src="animated_medium20200907-23140-1wxfpxa-ezgif.com-video-to-gif-converter.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trivedikavya&label=Profile%20views&color=0e75b6&style=flat" alt="trivedikavya" /> </p>
