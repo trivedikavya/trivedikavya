@@ -1,7 +1,4 @@
 ![Header GIF](./supawork_20250226_101536.gif)
-<h1 align="center">Hey 👋, I'm KAVYA TRIVEDI</h1>
-<h3 align="center">"I Build, I Create, I Adapt—If I Don’t Know It, I Make It Work."</h3>
-<img align="right" alt="coding" width="400" src="animated_medium20200907-23140-1wxfpxa-ezgif.com-video-to-gif-converter.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trivedikavya&label=Profile%20views&color=0e75b6&style=flat" alt="trivedikavya" /> </p>
 
