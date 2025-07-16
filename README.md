@@ -1,6 +1,6 @@
-![Header GIF](./supawork_20250226_101536.gif)
+<!-- ![Header GIF](./supawork_20250226_101536.gif) -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trivedikavya&label=Profile%20views&color=0e75b6&style=flat" alt="trivedikavya" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=trivedikavya&label=Profile%20views&color=0e75b6&style=flat" alt="trivedikavya" /> </p>
 
 <p>
 <h1 style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight:bold; font-size:4.2rem;">
