@@ -3,13 +3,14 @@
 
 
 <p>
-  <p align="right"> <img src="https://komarev.com/ghpvc/?username=trivedikavya&label=Profile%20views&color=0e75b6&style=flat" alt="trivedikavya" /> </p>
+  
 <h1 style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight:bold; font-size:4.2rem;">
   <span style="color:#FF6B6B; font-size:4.2rem;">Hey</span>, 
   <span style="color:#FFD93D; font-size:4.2rem;">I’m</span> 
   <span style="color:#6BCB77;">Kavya</span> 
   <span style="color:#4D96FF;">Trivedi</span> 
- <img src="https://i.pinimg.com/736x/b8/20/12/b8201271d4e1595d57ad2e40b6b4c038.jpg" width="39" height="39" /> <!-- 45 40 -- iron man  . 30 30 for apdi image  -->
+ <img src="https://i.pinimg.com/736x/b8/20/12/b8201271d4e1595d57ad2e40b6b4c038.jpg" width="39" height="39" /> 
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=trivedikavya&label=Profile%20views&color=0e75b6&style=flat" alt="trivedikavya" /> </p><!-- 45 40 -- iron man  . 30 30 for apdi image  -->
 </h1>
  
 </p>
