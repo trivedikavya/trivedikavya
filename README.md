@@ -19,7 +19,7 @@
 
 ## 📬 About Me
 
-- 🛠️ **Currently Working On:** Responsiveness of [EcoCarto](https://v0-eco-health-map-project.vercel.app/)
+- 🛠️ **Currently Working On:** Responsiveness of [EcoCarto](https://v0-eco-health-map-project.vercel.app/) And on [Terminal_Portfolio](https://kavyatrivediterminalportfolio.netlify.app/)
 - ⚡ **Recent project:** Through AWS Q-cli Developed [Sudoku](https://github.com/trivedikavya/Amazon-Q-CLI)  
 - 📚 **Currently Learning:** ` Django at intermediate stage`
 - 📩 **Email:** [kavyatrivedi931@gmail.com](mailto:kavyatrivedi931@gmail.com)
