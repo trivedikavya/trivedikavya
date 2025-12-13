@@ -1,79 +1,46 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="90"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80"/>
 
-<h1>Hey, I’m <span style="color:#4D96FF;">Kavya Trivedi</span> 👋</h1>
+# Hi, I’m Kavya Trivedi 👋
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3399FF&vCenter=true&width=600&lines=I+Think.+I+Build.+I+Fix.+I+Learn.;Turning+Ideas+Into+Working+Code.;Hustle+Mode+Always+ON+🚀" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3399FF&width=500&lines=Think.+Build.+Learn.+Fix.;Making+Things+Work.">
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=trivedikavya&label=Profile%20views&color=0e75b6&style=flat-square" />
-</p>
-
-<p>
-  <a href="https://linkedin.com/in/trivedikavya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/iamkavyatrivedi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://leetcode.com/trivedi_kavya"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
-  <a href="https://www.hackerrank.com/kavyatrivedi"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-  <a href="mailto:kavyatrivedi931@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=trivedikavya&label=Profile%20views&color=0e75b6&style=flat-square"/>
 
 ---
 
-## 📌 About Me
+## 👩‍💻 About Me
 
-- 🛠️ **Currently Working On:**  
-  Improving responsiveness of **[EcoCarto](https://v0-eco-health-map-project.vercel.app/)**  
-  & upgrading **[Terminal Portfolio](https://kavyatrivediterminalportfolio.netlify.app/)**
-
-- ⚡ **Recent Project:**  
-  Built **Sudoku Game** using **AWS Q-CLI**
-
-- 📚 **Currently Learning:**  
-  Django (Intermediate) & real-world backend workflows
-
-- 👯 **Ask Me About:**  
-  Web Development, Python, Debugging & UI Fixes
-
-- 💡 **Mindset:**  
-  *Build first → break it → fix it → make it better*
+- 🛠️ Working on **EcoCarto** & **Terminal Portfolio**
+- ⚡ Built a **Sudoku Game** using AWS Q-CLI
+- 📚 Learning **Django**
+- 💬 Ask me about **Web Dev, Python, Debugging**
 
 ---
 
-## 🧰 Tech Toolbox
+## 🧰 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,threejs,django,python" /><br><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,replit,netlify,gcp,ai" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,threejs,django,python" />
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,gcp" />
 
 ---
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=trivedikavya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=trivedikavya&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trivedikavya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trivedikavya&layout=compact&theme=tokyonight&hide_border=true" />
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trivedikavya&theme=tokyonight&hide_border=true&background=0D1117" height="165"/>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=trivedikavya&theme=tokyonight&hide_border=true" />
 
 ---
 
-## 🚀 What I Believe In
+## 🔗 Connect With Me
 
-> **“Code doesn’t need to be perfect — it needs to work, scale, and improve.”**
-
-- 🌱 Learning every day  
-- 🧠 Building with intent  
-- 🔧 Fixing what breaks  
-- 🚀 Growing consistently  
+<a href="https://linkedin.com/in/trivedikavya">LinkedIn</a> •
+<a href="https://twitter.com/iamkavyatrivedi">Twitter</a> •
+<a href="mailto:kavyatrivedi931@gmail.com">Gmail</a>
 
 ---
 
-### ⭐ If you like my work, consider starring my repositories!
+> *Learning every day. Building useful things.*
