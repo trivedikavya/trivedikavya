@@ -29,9 +29,9 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,threejs,django,python,vscode,replit,git,github,netlify,gcp,ai&perline=15" />
 
-<br><br>
+<!-- <br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=trivedikavya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trivedikavya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
-<br>
+<br> -->
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=trivedikavya&theme=tokyonight&hide_border=true&background=0D1117" height="150" alt="streak graph" /> -->
