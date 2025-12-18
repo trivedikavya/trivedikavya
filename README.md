@@ -18,7 +18,7 @@
 
 ## 📬 About Me
 
-- 🛠️ **Currently Working On:** Responsiveness of [GITHUB USEFUL STUFF](https://github.com/trivedikavya/Github-Useful-Stuff) & Portfolio Website.
+- 🛠️ **Currently Working On:** [Github useful stuff](https://github.com/trivedikavya/Github-Useful-Stuff) & Portfolio Website.
 - ⚡ **Recent Project:** Built [Sudoku](https://github.com/trivedikavya/Amazon-Q-CLI) via AWS Q-CLI
 - 📚 **Currently Learning:** <img src="https://img.shields.io/badge/Django-intermediate-092E20?style=flat-square&logo=django" valign="middle" />
 - 👯 **Ask me about:** Web Dev, Python, & Debugging
