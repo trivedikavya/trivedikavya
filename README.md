@@ -19,7 +19,7 @@
 ## 📬 About Me
 
 - 🛠️ **Currently Working On:** [Github useful stuff](https://github.com/trivedikavya/Github-Useful-Stuff) & Portfolio Website.
-- ⚡ **Recent Project:** Built [Sudoku](https://github.com/trivedikavya/Amazon-Q-CLI) via AWS Q-CLI
+- ⚡ **Recent Project:** Built [LINGODOC-OS](https://github.com/trivedikavya/LingoDocs-OS) For Multilungal Hackathon
 - 📚 **Currently Learning:** <img src="https://img.shields.io/badge/Django-intermediate-092E20?style=flat-square&logo=django" valign="middle" />
 - 👯 **Ask me about:** Web Dev, Python, & Debugging
 
