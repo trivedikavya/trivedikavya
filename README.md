@@ -18,8 +18,8 @@
 
 ## 📬 About Me
 
-- 🛠️ **Currently Working On:** [Github useful stuff](https://github.com/trivedikavya/Github-Useful-Stuff) & Portfolio Website.
-- ⚡ **Recent Project:** Built [LINGODOC-OS](https://github.com/trivedikavya/LingoDocs-OS) For Multilungal Hackathon
+- 🛠️ **Currently Working On:** Kcursors & Portfolio Website.
+- ⚡ **Recent Project:** Built [REQFORGE AI](https://github.com/trivedikavya/reqforge-ai) 
 - 📚 **Currently Learning:** <img src="https://img.shields.io/badge/Django-intermediate-092E20?style=flat-square&logo=django" valign="middle" />
 - 👯 **Ask me about:** Web Dev, Python, & Debugging
 
