@@ -18,7 +18,7 @@
 
 ## 📬 About Me
 
-- 🛠️ **Currently Working On:** Kcursors & Portfolio Website.
+- 🛠️ **Currently Working On:** Exams , Kcursors & Portfolio Website.
 - ⚡ **Recent Project:** Built [REQFORGE AI](https://github.com/trivedikavya/reqforge-ai) 
 - 📚 **Currently Learning:** <img src="https://img.shields.io/badge/Django-intermediate-092E20?style=flat-square&logo=django" valign="middle" />
 - 👯 **Ask me about:** Web Dev, Python, & Debugging
